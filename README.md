@@ -9,7 +9,7 @@ Reward:
 **15 RTC**, conditional on maintainer acceptance.
 
 Current stage:
-**PUBLIC_DELIVERY_READY / PRE-SUBMISSION**
+**PUBLIC_DELIVERY_READY / READY_FOR_SUBMISSION**
 
 This repository is the public delivery package for RustChain bounty issue #16601 Type C.
 It is **not submitted, accepted, or paid** yet.
@@ -31,14 +31,21 @@ The package explains that distinction without inventing transaction data or usin
 - `SOURCES.md` — source map pinned to upstream commit
 - `VERIFY.md` — factual/rights/submission preflight
 
+## Payout
+
+Native RTC payout address:
+
+`RTC8be0dbdde3d5cab020fd56773312f35349fc1a21`
+
+This is the public payout address only. No seed phrase or private key is stored in this repository.
+
 ## Submission status
 
 - Public delivery repo: complete
 - Work package: complete
+- RTC payout address: confirmed
 - External claim: not sent
 - Maintainer acceptance: not yet
 - Payout: not yet
-
-Before submission, the RTC payout address must be confirmed.
 
 Source issue: https://github.com/Scottcjn/rustchain-bounties/issues/16601

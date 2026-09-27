@@ -22,7 +22,7 @@
 ## Revenue boundary
 - [x] Internal package completion is **WORK_EXECUTION_DONE**, not Revenue success.
 - [x] Public delivery repo created.
-- [ ] RTC payout address confirmed.
+- [x] RTC payout address confirmed: `RTC8be0dbdde3d5cab020fd56773312f35349fc1a21`
 - [ ] External claim submitted.
 - [ ] Maintainer accepted.
 - [ ] Payout pending evidence received.

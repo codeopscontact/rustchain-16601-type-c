@@ -1,6 +1,6 @@
 # RustChain #16601 — Type C Shorts Kit
 
-Working title: **Queued Is Not Paid: Reading a RustChain Bounty Payout**
+Working title: **Queued Is Not Confirmed: Reading a RustChain RTC Transfer**
 
 RTC Bounty Event:
 `github:Scottcjn/rustchain-bounties#16601:type-c:codeopscontact`
@@ -9,7 +9,7 @@ Reward:
 **15 RTC**, accepted by the maintainer in an email dated 2026-10-07; transfer reported sent with reference `i1007-codeops-16601c`. On-chain confirmation not yet verified here.
 
 Current stage:
-**ACCEPTED / RTC_TRANSFER_REPORTED_PENDING / PUBLICATION_TEXT_UPDATE**
+**ACCEPTED / RTC_TRANSFER_REPORTED_PENDING / PUBLICATION_TEXT_CORRECTED**
 
 This repository is the public delivery package for RustChain bounty issue #16601 Type C.
 It was submitted via the documented email fallback and accepted by the maintainer on 2026-10-07. A 15 RTC transfer was reported pending; this is not cash or verified on-chain settlement.

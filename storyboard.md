@@ -6,13 +6,13 @@ No fabricated terminal output. All code captures must come from the pinned publi
 
 **Visual**
 Large typography:
-`PAYMENT SUBMITTED ≠ PAID`
+`RTC QUEUED ≠ CONFIRMED`
 
 Small footer:
 `RustChain bounty payout states`
 
 **Voice**
-“A bounty can say payment submitted and still not be paid yet.”
+“An RTC bounty transfer can be queued and still not confirmed.”
 
 ## 0:05–0:17 — Two-phase payout
 
@@ -53,7 +53,7 @@ Highlight the source comment:
 **Voice**
 “The GitHub tip code says the same thing…”
 
-## 0:40–0:51 — What counts as real payout evidence
+## 0:40–0:51 — What counts as confirmed RTC transfer evidence
 
 **Capture**
 Open `SECURITY.md`, section `What a real payment looks like`.
@@ -70,11 +70,11 @@ Highlight only the published requirements:
 Three stacked states:
 
 `ACCEPTED`
-→ `PAYOUT PENDING`
-→ `PAID CONFIRMED`
+→ `RTC PENDING`
+→ `RTC CONFIRMED`
 
 Final line:
-`Don't count pending money as paid.`
+`Don't count pending RTC as confirmed.`
 
 **Voice**
 “So audit bounty revenue in three separate states…”

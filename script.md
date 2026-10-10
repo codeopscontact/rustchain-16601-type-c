@@ -8,6 +8,6 @@ The GitHub tip code says the same thing: a `pending_id` or transaction hash can 
 
 RustChain's security guidance says a legitimate payout notice should include the amount, recipient wallet, project-issued transfer identifiers, and confirmation timing.
 
-So audit bounty revenue in three separate states: **accepted, payout pending, paid confirmed**.
+So audit RTC bounty transfers in three separate states: **accepted, transfer pending, RTC transfer confirmed**.
 
-Simple rule: don't count the money as paid until confirmation evidence exists.
+Simple rule: don't call RTC confirmed until transfer confirmation evidence exists. RTC is not cash and has no supported conversion to cash.

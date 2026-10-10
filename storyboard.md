@@ -9,7 +9,7 @@ Large typography:
 `RTC QUEUED ≠ CONFIRMED`
 
 Small footer:
-`RustChain bounty payout states`
+`RustChain RTC transfer states`
 
 **Voice**
 “An RTC bounty transfer can be queued and still not confirmed.”
@@ -77,4 +77,4 @@ Final line:
 `Don't count pending RTC as confirmed.`
 
 **Voice**
-“So audit bounty revenue in three separate states…”
+“So track RTC transfers in three separate states…”
